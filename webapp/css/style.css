@@ -1,0 +1,19 @@
+.searchLabel {
+    height: 2rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem
+}
+
+.orgAssignmentPanel>.sapMPanelContent {
+    padding-bottom: 1.4rem
+}
+
+.procurementTypeTitle {
+    font-size: 1.125rem;
+    padding-left: 1rem;
+    padding-top: 1rem
+}
+
+.paymentMethodsForm {
+    padding-bottom: 1.8rem
+}
